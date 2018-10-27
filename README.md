@@ -1,4 +1,5 @@
 # Kotlin Tutorial
+For those wondering it's Chinese or Japanese, it is a Kotlin tutorial in Chinese.
 
 Kotlin是一個比較新的JVM程式語言，它是在2011年7月由JetBrains發表的專案，JetBrains是開發工具IntelliJ IDEA的開發商，Android Studio就是以IntelliJ IDEA為基礎的Android官方開發工具。Kotlin v1.0在2016年2月發表，是第一個由JetBrains發佈的Kotlin正式版本。
 
